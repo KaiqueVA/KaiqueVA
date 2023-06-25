@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá =)
+<div>
+  <a href="https://github.com/KaiqueVA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueVA&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueVA&layout=pie&theme=dracula"/>
+</div>
 
+
+    
 <!--
 **KaiqueVA/KaiqueVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
