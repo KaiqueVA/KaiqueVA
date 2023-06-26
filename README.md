@@ -1,8 +1,8 @@
 ### Olá =)
 <div>
   <a href="https://github.com/KaiqueVA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueVA&show_icons=true&count_private=true&hide_border=true&title_color=5C9DFF&icon_color=35C1FE&text_color=EEF1F7&bg_color=0d1117"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueVA&langs_count=8&hide_border=true&title_color=5C9DFF&text_color=EEF1F7&bg_color=0d1117"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KaiqueVA&show_icons=true&count_private=true&hide_border=true&title_color=5C9DFF&icon_color=35C1FE&text_color=EEF1F7&bg_color=0d1117"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueVA&langs_count=8&hide_border=true&title_color=5C9DFF&text_color=EEF1F7&bg_color=0d1117"/>
 </div>
 
 
