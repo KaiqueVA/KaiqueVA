@@ -3,7 +3,6 @@
 Bem-vindo ao meu perfil no GitHub! Sou um estudande de engenharia da computação apaixonado por tecnologia, sempre buscando aprender novas habilidades e compartilhar meus projetos com a comunidade.
 
 ### 🌟 Sobre mim:
-- 🚀 Desenvolvedor Full Stack
 - 💻 Apaixonado por programação, automação e inovação
 - 🔌 Sempre aprendendo novas tecnologias e buscando desafios
 
