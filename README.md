@@ -3,19 +3,8 @@
 Bem-vindo ao meu perfil no GitHub! Sou um estudande de engenharia da computação apaixonado por tecnologia, sempre buscando aprender novas habilidades e compartilhar meus projetos com a comunidade.
 
 ### 🌟 Sobre mim:
-- 💻 Apaixonado por programação, automação e inovação
+- 💻 Apaixonado por programação, hardware e inovação
 - 🔌 Sempre aprendendo novas tecnologias e buscando desafios
-
-### 📊 Estatísticas do GitHub:
-
-<div>
-  <a href="https://github.com/KaiqueVA">
-    <img height="350em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KaiqueVA&show_icons=true&count_private=true&hide_border=true&title_color=5C9DFF&icon_color=35C1FE&text_color=EEF1F7&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/KaiqueVA">
-    <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueVA&langs_count=8&hide_border=true&title_color=5C9DFF&text_color=EEF1F7&bg_color=0d1117"/>
-  </a>
-</div>
 
 ### 🛠️ Tecnologias que utilizo:
   <div>
