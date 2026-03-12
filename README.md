@@ -18,7 +18,7 @@ apaixonado por sistemas embarcados, hardware e desenvolvimento de software.
 <img src="https://img.shields.io/badge/PIC-CC0000?style=for-the-badge&logo=microchip&logoColor=white"/>
 </div>
 
-**SO / RTOS**
+**RTOS / OS**
 <div>
 <img src="https://www.freertos.org/media/2023/logo.png" height="28"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -56,6 +56,10 @@ apaixonado por sistemas embarcados, hardware e desenvolvimento de software.
 **Ferramentas**
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </div>
 
 ## Contato
